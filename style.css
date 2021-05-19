@@ -1,0 +1,29 @@
+.block {
+    Background-color:#FF2400;
+    color:#000000;
+    font-weight:bold;
+    max-height:150px;
+    max-width:150px;
+    overflow:scroll;
+    border:solid;
+    border-color:#666666;
+    border-width:5px;
+    float:left;
+}
+
+#Html{
+    position:relative;
+    left:5px;
+    
+}
+#CSS{
+    Position:relative;
+    left:10px;
+    
+}
+#bottom{
+    Position:relative;
+    top:250px;
+    right:450;
+    
+}
